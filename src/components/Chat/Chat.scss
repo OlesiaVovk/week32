@@ -1,0 +1,24 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 40vw;
+  height: 90vh;
+  margin: 0 auto;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: rgb(247, 105, 105);
+  border: none;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #fff;
+}
+
+.new {
+  color: red;
+}
